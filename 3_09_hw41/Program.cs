@@ -3,6 +3,7 @@
 1, -7, 567, 89, 223-> 3
 */
 
+
 int InputNumber(string massege)
 {
     Console.WriteLine(massege);
